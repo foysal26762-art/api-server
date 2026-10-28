@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 # ডাটাবেজ ফাইল লিংক
 DB_PATH = os.path.join(os.path.dirname(__file__), "newbot.db")
-API_KEY = "YOUR_SECRET_API_KEY"  # নিজের পছন্দমতো একটি সিক্রেট কি (Key) দিন
+API_KEY = "iz_kJEKyFobd3EHnhw79n4U88h9MZF9bxL211Swec1SLNU"  # নিজের পছন্দমতো একটি সিক্রেট কি (Key) দিন
 
 
 def get_db():
